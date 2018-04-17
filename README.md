@@ -1,4 +1,4 @@
-# 'Nanna' - a UI Offline Granular Synthesis
+# 'Nanna' - a UI for Offline Granular Synthesis
 
 Implements a graphical user interface to Lopez-Lezcarno's [*grani*](https://ccrma.stanford.edu/~nando/clm/grani/) instrument for Common Lisp Music.
 
