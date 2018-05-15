@@ -6,7 +6,7 @@ The UI is built in Max/MSP, communicating with *grani* via [*Slippery Chicken's*
 
 Both Slippery Chicken and Max/MSP are required to run the app.
 
-**Note: The current version was written for personal use in a composition project.** **An improved, lightweight and less buggy version is in the works.**
+**Note: The current version was written for personal use in a composition project prior to undertaking Software training.** **An improved, lightweight and less buggy version is in the works.**
 
 Any questions: ping me here or at [bevingtonaudio@gmail.com](mailto:bevingtonaudio@gmail.com).
 
