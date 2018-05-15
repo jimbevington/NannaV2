@@ -53,15 +53,15 @@
 
 ;; EXPORT destination
 (defvar export-dest
-  "/Users/jimbevington/Documents/MASTERs/final-project/jb-GRANARY-fp/sndfiles/")
+  "~/Desktop/")
 
 ;; IMPORT source
 ;; All Samples used by Nanna must be located here.
-(defvar import-dest "/Users/jimbevington/Documents/Samples/grain-samps/")
+(defvar import-dest "~/Desktop/")
 
 ;; IMPORT ENVELOPE source
 (defvar env-coll
-  "/Users/jimbevington/Documents/MASTERs/final-project/jb-GRANARY-fp/grainvelopes/")
+  "~/Desktop/")
 
 ;;; LOAD UTILITIES ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
@@ -71,7 +71,7 @@
 
 ;;; !!! UPDATE THIS LOCATION TO YOUR OWN !!!
 (load (compile-file
-       "/Users/jimbevington/Documents/MASTERs/lisp-stuff-jim-bevington/jb-utilities.lsp"))
+       "~/Desktop/jb-utilities.lsp"))
 
 ;;; VARIBLE DEFINITIONS ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;; most variables are initialised with arbitrary values to be updated by Max/MSP interface.
